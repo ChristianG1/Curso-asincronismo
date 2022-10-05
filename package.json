@@ -12,6 +12,9 @@
   "author": "Christian George castellanosgeorgec@gmail.com",
   "license": "MIT",
   "dependencies": {
+    "fetch": "^1.1.0",
+    "node-fetch": "^3.2.10",
     "xmlhttprequest": "^1.8.0"
-  }
+  }, 
+  "type": "module"
 }
